@@ -15,6 +15,5 @@ variable "rg"{
 }
 variable "location"{
 }
-output "AppID"{
-  value="${var.appid}"
+variable "sec_group_name"{
 }
